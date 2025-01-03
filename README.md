@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-### I'm brazilian, 28 years old, from São Paulo city, a front-end developer with initial degree in Computer Science.
+### I'm brazilian, 30 years old, from São Paulo city, a front-end developer with initial degree in Computer Science.
 ### Now i'm studying front end developer at Alura.
 
 <div align='center'>
